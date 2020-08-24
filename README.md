@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - GDDAQ/PKUXIADAQ [stable version](https://github.com/pkuNucExp/PKUXIADAQ) / [beta version](https://github.com/wuhongyi/PKUXIADAQ)     GUIDE [stable](https://pkunucexp.github.io/PKUXIADAQ/) / [beta](http://wuhongyi.cn/PKUXIADAQ/)
 - VMEDAQ [stable version](https://github.com/pkuNucExp/VMEDAQ) / [beta version](https://github.com/wuhongyi/VMEDAQ)
 - MZTIO [stable version](https://pkunucexp.github.io/MZTIO/) / [beta version](http://wuhongyi.cn/MZTIO/)
+
+**中国用户请选择带有 beta 的版本。**
