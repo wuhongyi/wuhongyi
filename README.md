@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - MZTIO [stable version](https://pkunucexp.github.io/MZTIO/) / [beta version](http://wuhongyi.cn/MZTIO/)
 
 **中国用户请选择带有 beta 的版本。**
+
+中文笔记 [RPGA](http://wuhongyi.cn/FPGAinENP/)   [ROOT](http://wuhongyi.cn/ROOTNote/)   [GEANT4](http://wuhongyi.cn/Geant4Note/)
