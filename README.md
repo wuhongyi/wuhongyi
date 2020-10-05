@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 **中国用户请选择带有 beta 的版本。**
 
-中文笔记 [RPGA](http://wuhongyi.cn/FPGAinENP/)   [ROOT](http://wuhongyi.cn/ROOTNote/)   [GEANT4](http://wuhongyi.cn/Geant4Note/)
+中文笔记 [FPGA](http://wuhongyi.cn/FPGAinENP/)   [ROOT](http://wuhongyi.cn/ROOTNote/)   [GEANT4](http://wuhongyi.cn/Geant4Note/)
