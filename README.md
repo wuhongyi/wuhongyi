@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [GDDAQ/PKUXIADAQ](https://github.com/wuhongyi/PKUXIADAQ)   [GUIDE](http://wuhongyi.cn/PKUXIADAQ/)
-- [VMEDAQ](https://github.com/wuhongyi/VMEDAQ)
-- [MZTIO](http://wuhongyi.cn/MZTIO/)
+- GDDAQ [GDDAQ/PKUXIADAQ](https://github.com/wuhongyi/PKUXIADAQ)   Guide [GUIDE](http://wuhongyi.cn/PKUXIADAQ/)
+- VMEDAQ [VMEDAQ](https://github.com/wuhongyi/VMEDAQ)
+- MZTIO [MZTIO](http://wuhongyi.cn/MZTIO/)
 
 **请及时下载最新版本。**
 
