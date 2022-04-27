@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- GDDAQ/PKUXIADAQ [stable version](https://github.com/pkuNucExp/PKUXIADAQ) / [beta version](https://github.com/wuhongyi/PKUXIADAQ)     GUIDE [stable](https://pkunucexp.github.io/PKUXIADAQ/) / [beta](http://wuhongyi.cn/PKUXIADAQ/)
-- VMEDAQ [stable version](https://github.com/pkuNucExp/VMEDAQ) / [beta version](https://github.com/wuhongyi/VMEDAQ)
-- MZTIO [stable version](https://pkunucexp.github.io/MZTIO/) / [beta version](http://wuhongyi.cn/MZTIO/)
+- [GDDAQ/PKUXIADAQ](https://github.com/wuhongyi/PKUXIADAQ)   [GUIDE](http://wuhongyi.cn/PKUXIADAQ/)
+- [VMEDAQ](https://github.com/wuhongyi/VMEDAQ)
+- [MZTIO](http://wuhongyi.cn/MZTIO/)
 
-**中国用户请选择带有 beta 的版本。**
+**请及时下载最新版本。**
 
 中文笔记 [FPGA](http://wuhongyi.cn/FPGAinENP/)   [ROOT](http://wuhongyi.cn/ROOTNote/)   [GEANT4](http://wuhongyi.cn/Geant4Note/)
