@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- GDDAQ [GDDAQ/PKUXIADAQ](https://github.com/wuhongyi/PKUXIADAQ)   Guide [GUIDE](http://wuhongyi.cn/PKUXIADAQ/)
-- GDDAQ [GDDAQ/PKUCAENDAQ](https://github.com/wuhongyi/PKUCAENDAQ)
+- GDDAQ-XIA [GDDAQ/PKUXIADAQ](https://github.com/wuhongyi/PKUXIADAQ)   Guide [GUIDE](http://wuhongyi.cn/PKUXIADAQ/)
+- GDDAQ-CAEN [GDDAQ/PKUCAENDAQ](https://github.com/wuhongyi/PKUCAENDAQ) Guide [GUIDE](https://wuhongyi.cn/PKUCAENDAQ/)
 - VMEDAQ [VMEDAQ](https://github.com/wuhongyi/VMEDAQ)
 - MZTIO [MZTIO](http://wuhongyi.cn/MZTIO/)
 
