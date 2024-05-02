@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 
 **请及时下载最新版本。**
 
-中文笔记 [FPGA](http://wuhongyi.cn/FPGAinENP/)   [ROOT](http://wuhongyi.cn/ROOTNote/)   [GEANT4](http://wuhongyi.cn/Geant4Note/)
+中文教程
+
+- [FPGA 教程](http://wuhongyi.cn/FPGAinENP/)
+- [GEANT4教程](https://wuhongyi.cn/GEANT4Course/)
+- [ROOT](http://wuhongyi.cn/ROOTNote/)   
