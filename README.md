@@ -1,4 +1,4 @@
-### Quick access
+
 
 <!--
 **wuhongyi/wuhongyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Contact Information
+
+You can contact me at the following email address:
+- wuhongyi@qq.com (top priority)
+- wuhongyi@pku.edu.cn
+- wuhy@ciae.ac.cn
+
+
+
+### Quick access DAQ
+
 - GDDAQ-XIA [GDDAQ/PKUXIADAQ](https://github.com/wuhongyi/PKUXIADAQ)   Guide [GUIDE](http://wuhongyi.cn/PKUXIADAQ/)
 - GDDAQ-CAEN [GDDAQ/PKUCAENDAQ](https://github.com/wuhongyi/PKUCAENDAQ) Guide [GUIDE](https://wuhongyi.cn/PKUCAENDAQ/)
 - VMEDAQ [VMEDAQ](https://github.com/wuhongyi/VMEDAQ)
 - MZTIO [MZTIO](http://wuhongyi.cn/MZTIO/)
 
-**请及时下载最新版本。**
+**Please download the latest version as soon as possible. 请及时下载最新版本。**
 
-中文教程
-
-- [FPGA 教程](http://wuhongyi.cn/FPGAinENP/)
-- [GEANT4教程](https://wuhongyi.cn/GEANT4Course/)
-- [ROOT](http://wuhongyi.cn/ROOTNote/)   
