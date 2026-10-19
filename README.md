@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Contact Information
 
-You can contact me at the following email address:
+You can contact me at the following email:
 - wuhongyi@qq.com (top priority)
 - wuhongyi@pku.edu.cn
 - wuhy@ciae.ac.cn
