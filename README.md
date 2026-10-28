@@ -28,7 +28,7 @@ You can contact me at the following email:
 
 - GDDAQ-XIA Pixie-16 [GDDAQ/PKUXIADAQ](https://github.com/wuhongyi/PKUXIADAQ)   Guide [GUIDE](http://wuhongyi.cn/PKUXIADAQ/)
 - GDDAQ-CAEN 27xx [GDDAQ/PKUCAENDAQ](https://github.com/wuhongyi/PKUCAENDAQ) Guide [GUIDE](https://wuhongyi.cn/PKUCAENDAQ/)
-- GDDAQ-CAEN 5560 Coming soon
+- GDDAQ-CAEN 5560 [GDDAQ/PKUCAENDAQ5560](https://github.com/wuhongyi/PKUCAENDAQ5560) Guide [GUIDE](https://wuhongyi.cn/PKUCAENDAQ5560/)
 - VMEDAQ [VMEDAQ](https://github.com/wuhongyi/VMEDAQ)
 - MZTIO [MZTIO](http://wuhongyi.cn/MZTIO/)
 
